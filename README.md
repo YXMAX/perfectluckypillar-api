@@ -6,7 +6,7 @@ PerfectLuckyPillar（幸运之柱）的第三方开发接口。用于读取对�
 
 ## 安装
 
-通过 [JitPack](https://jitpack.io) 引入。
+[![](https://jitpack.io/v/YXMAX/perfectluckypillar-api.svg)](https://jitpack.io/#YXMAX/perfectluckypillar-api)
 
 ### Gradle
 
